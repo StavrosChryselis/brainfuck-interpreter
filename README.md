@@ -2,7 +2,7 @@
 An interpreter for the brainfuck programming language.
 
 # requirements
-Install the `haskell stack` package from your favorite package manager.
+Install the `haskell-stack` package from your favorite package manager.
 f.e MacOs -> `brew install haskell-stack`
 
 # running sample brainfuck code
